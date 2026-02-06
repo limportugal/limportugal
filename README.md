@@ -22,7 +22,7 @@ This GitHub is where I build, test, and ship real-world applications — from ba
 - **Backend:** Laravel, PHP, MySQL  
 - **Frontend:** React, TypeScript, JavaScript  
 - **State & Validation:** Zustand, Zod  
-- **DevOps & Tools:** Linux, Git, Nginx, Cloudflare  
+- **DevOps & Tools:** Git, 
 - **Focus:** Clean architecture, automation, scalability
 
 ---
