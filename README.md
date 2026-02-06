@@ -44,7 +44,10 @@ This GitHub is where I build, test, and ship real-world applications — from ba
 
 - 🧩 **Bulletin Board System** – Internal announcements & updates  
 - 💰 **Expenses Tracker** – Personal & operational expense management  
-- 🎲 **Randomizer Tools** – Utility scripts & experiments  
+- 🍎 **NutritionMonitoringSystem** – Nutrition tracking and monitoring platform  
+- 🏥 **Community-Nutrition** – Community-based nutrition data and reporting system  
+- 🎲 **Randomizer Tools** – Utility scripts & experiments
+
 
 ---
 
