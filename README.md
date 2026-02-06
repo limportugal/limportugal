@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 THIS IS MY GITHUB
 
-<!--
-**PlayerUnknows/PlayerUnknows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;I+build+things+that+work;Clean+Code+%7C+Automation+%7C+Systems" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Hi, I’m **Lim**.  
+This GitHub is where I build, test, and ship real-world applications — from backend systems to frontend interfaces and automation tools.
+
+---
+
+## 🚀 Tech Stack
+
+- **Backend:** Laravel, PHP, MySQL  
+- **Frontend:** React, TypeScript, JavaScript  
+- **State & Validation:** Zustand, Zod  
+- **DevOps & Tools:** Linux, Git, Nginx, Cloudflare  
+- **Focus:** Clean architecture, automation, scalability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limportugal&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=limportugal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📂 Featured Work
+
+- 🧩 **Bulletin Board System** – Internal announcements & updates  
+- 💰 **Expenses Tracker** – Personal & operational expense management  
+- 🎲 **Randomizer Tools** – Utility scripts & experiments  
+
+---
+
+## 🧠 Dev Motto
+
+> Build it clean.  
+> Ship it stable.  
+> Automate the rest.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+</p>
