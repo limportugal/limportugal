@@ -30,12 +30,9 @@ This GitHub is where I build, test, and ship real-world applications — from ba
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limportugal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=limportugal&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=limportugal&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
