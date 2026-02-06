@@ -1,4 +1,4 @@
-# 👋 THIS IS MY GITHUB
+# 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
@@ -30,7 +30,11 @@ This GitHub is where I build, test, and ship real-world applications — from ba
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limportugal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=limportugal&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=limportugal&theme=github_dark" />
 </p>
 
 
